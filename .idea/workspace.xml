@@ -4,28 +4,29 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="027e3aba-1a76-4164-ab1c-dc78a353aab9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/web-testing-with-ai.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C1_Planning/S1_Suggestions/S1_prompt.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C1_Planning/S1_Suggestions/S1_response.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C1_Planning/S2_Optimize/S2_prompt.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C1_Planning/S2_Optimize/S2_response.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C1_Planning/S3_Multi_User/S3_prompt.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C1_Planning/S3_Multi_User/S3_response.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C1_Planning/S4_Non_Functional_Requirements/S4_prompt.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C1_Planning/S4_Non_Functional_Requirements/S4_response.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C1_Planning/S5_Test_Plan/S5_prompt.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C1_Planning/S5_Test_Plan/S5_response.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C1_Planning/S6_Google_Doc/S6_prompt.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/todo.md" afterDir="false" />
+    <list default="true" id="027e3aba-1a76-4164-ab1c-dc78a353aab9" name="Changes" comment="Planning">
+      <change afterPath="$PROJECT_DIR$/C2_Setup/S10_Take_4/S10_prompt.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C2_Setup/S10_Take_4/S10_script.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C2_Setup/S11_Take_5/S11_prompt.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C2_Setup/S11_Take_5/S11_response.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C2_Setup/S11_Take_5/S11_script.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C2_Setup/S12_Take_6/S12_prompt.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C2_Setup/S12_Take_6/S12_response.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C2_Setup/S12_Take_6/S12_script.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C2_Setup/S13_Take_7/S13_prompt.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C2_Setup/S13_Take_7/S13_response.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C2_Setup/S13_Take_7/S13_script.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C2_Setup/S14_Final_Try/S14_prompt.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C2_Setup/S7_Get_To_Point/S7_prompt.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C2_Setup/S7_Get_To_Point/S7_script.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C2_Setup/S8_Take_2/S8_prompt.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C2_Setup/S8_Take_2/S8_script.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C2_Setup/S9_Take_3/S9_prompt.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C2_Setup/S9_Take_3/S9_response.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C2_Setup/S9_Take_3/S9_script.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/todo.md" beforeDir="false" afterPath="$PROJECT_DIR$/todo.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,29 +57,140 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python tests.Python tests for test.test_has_title.executor": "Run",
+    "Python.S10_script.executor": "Run",
+    "Python.S11_script.executor": "Run",
+    "Python.S12_script.executor": "Run",
+    "Python.S13_script.executor": "Run",
+    "Python.S7_script.executor": "Run",
+    "Python.S8_script.executor": "Run",
+    "Python.S9_script.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master"
   }
 }]]></component>
-  <component name="RunManager">
-    <configuration name="Python tests for test.test_has_title" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\GitHub\Webinars\web-testing-with-ai\C2_Setup\S7_Get_To_Point" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.S14_script">
+    <configuration name="S10_script" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="web-testing-with-ai" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/C2_Setup/S10_Take_4" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test.test_has_title&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/C2_Setup/S10_Take_4/S10_script.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="S11_script" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="web-testing-with-ai" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/C2_Setup/S11_Take_5" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/C2_Setup/S11_Take_5/S11_script.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="S12_script" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="web-testing-with-ai" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/C2_Setup/S12_Take_6" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/C2_Setup/S12_Take_6/S12_script.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="S13_script" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="web-testing-with-ai" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/C2_Setup/S13_Take_7" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/C2_Setup/S13_Take_7/S13_script.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="S14_script" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="web-testing-with-ai" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/C2_Setup/S14_Final_Try" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/C2_Setup/S14_Final_Try/S14_script.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python tests.Python tests for test.test_has_title" />
+        <item itemvalue="Python.S14_script" />
+        <item itemvalue="Python.S13_script" />
+        <item itemvalue="Python.S12_script" />
+        <item itemvalue="Python.S11_script" />
+        <item itemvalue="Python.S10_script" />
       </list>
     </recent_temporary>
   </component>
@@ -98,6 +210,19 @@
       <option name="presentableId" value="Default" />
       <updated>1749036098001</updated>
     </task>
+    <task id="LOCAL-00001" summary="Planning">
+      <option name="closed" value="true" />
+      <created>1749040695630</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1749040695630</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Planning" />
+    <option name="LAST_COMMIT_MESSAGE" value="Planning" />
   </component>
 </project>

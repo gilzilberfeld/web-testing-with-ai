@@ -1,8 +1,3 @@
-Suggestions
-	User workflows
-	Concurrency
-	Multi user
-	Prioritize
 Setup
 	Get to a point
 	API
