@@ -1,0 +1,1 @@
+Can you put all the suggestions in a test plan document? Pick any popular template.
