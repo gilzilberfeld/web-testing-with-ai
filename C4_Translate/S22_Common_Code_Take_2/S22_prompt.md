@@ -1,0 +1,1 @@
+Refactor the tests to store the locators in fixture variables and use them in the tests. It will remove the duplication of finding them.

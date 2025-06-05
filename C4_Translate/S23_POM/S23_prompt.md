@@ -1,0 +1,1 @@
+Refactor the tests to use the Page Object Model pattern.
