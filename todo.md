@@ -1,7 +1,3 @@
-Setup
-	Get to a point
-	API
-	Cleanup
 Generate
 	Test
 	Refactor selectors

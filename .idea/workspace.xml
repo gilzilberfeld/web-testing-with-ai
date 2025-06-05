@@ -4,7 +4,22 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="027e3aba-1a76-4164-ab1c-dc78a353aab9" name="Changes" comment="Get to point" />
+    <list default="true" id="027e3aba-1a76-4164-ab1c-dc78a353aab9" name="Changes" comment="added missing responses">
+      <change afterPath="$PROJECT_DIR$/C3_Generate/S15_Take_1/S15_prompt.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C3_Generate/S15_Take_1/S15_response.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C3_Generate/S15_Take_1/S15_tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C3_Generate/S16_Code_Gen/s16_code_gen_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C3_Generate/S17_Take_2/S17_prompt.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C3_Generate/S17_Take_2/S17_response.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C3_Generate/S17_Take_2/S17_tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C3_Generate/S18_Take_3/S18_Take_4.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C3_Generate/S18_Take_3/S18_response.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C3_Generate/S18_Take_3/S18_tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C3_Generate/S19_Take_4/S19_prompt.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C3_Generate/S19_Take_4/S19_response.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/todo.md" beforeDir="false" afterPath="$PROJECT_DIR$/todo.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -31,144 +46,116 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python tests.Python tests for test.test_has_title.executor&quot;: &quot;Run&quot;,
-    &quot;Python.S10_script.executor&quot;: &quot;Run&quot;,
-    &quot;Python.S11_script.executor&quot;: &quot;Run&quot;,
-    &quot;Python.S12_script.executor&quot;: &quot;Run&quot;,
-    &quot;Python.S13_script.executor&quot;: &quot;Run&quot;,
-    &quot;Python.S14_script.executor&quot;: &quot;Run&quot;,
-    &quot;Python.S7_script.executor&quot;: &quot;Run&quot;,
-    &quot;Python.S8_script.executor&quot;: &quot;Run&quot;,
-    &quot;Python.S9_script.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python tests.Python tests for S15_tests.test_invalid_login_wrong_user.executor": "Run",
+    "Python tests.Python tests for S17_tests.test_invalid_login_wrong_user.executor": "Run",
+    "Python tests.Python tests for S17_tests.test_successful_login.executor": "Run",
+    "Python tests.Python tests for S18_tests.test_invalid_login_no_password.executor": "Run",
+    "Python tests.Python tests for S18_tests.test_successful_login.executor": "Run",
+    "Python tests.Python tests for test.test_has_title.executor": "Run",
+    "Python tests.Python tests for test.test_successful_login.executor": "Run",
+    "Python.S10_script.executor": "Run",
+    "Python.S11_script.executor": "Run",
+    "Python.S12_script.executor": "Run",
+    "Python.S13_script.executor": "Run",
+    "Python.S14_script.executor": "Run",
+    "Python.S7_script.executor": "Run",
+    "Python.S8_script.executor": "Run",
+    "Python.S9_script.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\GitHub\Webinars\web-testing-with-ai\C3_Generate\S15_" />
       <recent name="C:\GitHub\Webinars\web-testing-with-ai\C2_Setup\S7_Get_To_Point" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.S14_script">
-    <configuration name="S10_script" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python tests.Python tests for S19_tests.test_invalid_login_no_password">
+    <configuration name="Python tests for S17_tests.test_invalid_login_wrong_user" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="web-testing-with-ai" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/C2_Setup/S10_Take_4" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/C3_Generate/S17_Take_2" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/C2_Setup/S10_Take_4/S10_script.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;S17_tests.test_invalid_login_wrong_user&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="S11_script" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for S18_tests.test_invalid_login_no_password" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="web-testing-with-ai" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/C2_Setup/S11_Take_5" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/C3_Generate/S18_Take_3" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/C2_Setup/S11_Take_5/S11_script.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;S18_tests.test_invalid_login_no_password&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="S12_script" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for S18_tests.test_successful_login" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="web-testing-with-ai" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/C2_Setup/S12_Take_6" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/C3_Generate/S18_Take_3" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/C2_Setup/S12_Take_6/S12_script.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;S18_tests.test_successful_login&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="S13_script" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for S19_tests.test_invalid_login_no_password" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="web-testing-with-ai" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/C2_Setup/S13_Take_7" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/C3_Generate/S19_Take_4" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/C2_Setup/S13_Take_7/S13_script.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;S19_tests.test_invalid_login_no_password&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="S14_script" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for S19_tests.test_successful_login" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="web-testing-with-ai" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/C2_Setup/S14_Final_Try" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/C3_Generate/S19_Take_4" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/C2_Setup/S14_Final_Try/S14_script.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;S19_tests.test_successful_login&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.S14_script" />
-        <item itemvalue="Python.S13_script" />
-        <item itemvalue="Python.S12_script" />
-        <item itemvalue="Python.S11_script" />
-        <item itemvalue="Python.S10_script" />
+        <item itemvalue="Python tests.Python tests for S19_tests.test_invalid_login_no_password" />
+        <item itemvalue="Python tests.Python tests for S19_tests.test_successful_login" />
+        <item itemvalue="Python tests.Python tests for S18_tests.test_invalid_login_no_password" />
+        <item itemvalue="Python tests.Python tests for S18_tests.test_successful_login" />
+        <item itemvalue="Python tests.Python tests for S17_tests.test_invalid_login_wrong_user" />
       </list>
     </recent_temporary>
   </component>
@@ -204,12 +191,21 @@
       <option name="project" value="LOCAL" />
       <updated>1749044178337</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="added missing responses">
+      <option name="closed" value="true" />
+      <created>1749106226908</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1749106226908</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Planning" />
     <MESSAGE value="Get to point" />
-    <option name="LAST_COMMIT_MESSAGE" value="Get to point" />
+    <MESSAGE value="added missing responses" />
+    <option name="LAST_COMMIT_MESSAGE" value="added missing responses" />
   </component>
 </project>
