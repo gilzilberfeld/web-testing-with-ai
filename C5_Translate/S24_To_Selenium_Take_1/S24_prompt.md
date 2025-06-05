@@ -1,0 +1,1 @@
+Translate the tests to use Selenium instead of Playwright.
