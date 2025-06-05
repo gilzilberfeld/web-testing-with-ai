@@ -4,32 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="027e3aba-1a76-4164-ab1c-dc78a353aab9" name="Changes" comment="Translate cases">
-      <change afterPath="$PROJECT_DIR$/C5_Translate/S24_To_Selenium_Take_1/S24_prompt.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C5_Translate/S24_To_Selenium_Take_1/S24_response.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C5_Translate/S24_To_Selenium_Take_1/S24_tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C5_Translate/S24_To_Selenium_Take_1/conftest.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C5_Translate/S24_To_Selenium_Take_1/login_page.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C5_Translate/S25_To_Selenium_Take_2/S25_prompt.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C5_Translate/S25_To_Selenium_Take_2/S25_response.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C5_Translate/S25_To_Selenium_Take_2/S25_tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C5_Translate/S25_To_Selenium_Take_2/conftest.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C5_Translate/S25_To_Selenium_Take_2/login_page.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C5_Translate/S26_To_Selenium_Take_3/S26_prompt.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/C4_Translate/S20_PyTest_Fixture/S20_prompt.md" beforeDir="false" afterPath="$PROJECT_DIR$/C4_Refactor/S20_PyTest_Fixture/S20_prompt.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/C4_Translate/S20_PyTest_Fixture/S20_response.md" beforeDir="false" afterPath="$PROJECT_DIR$/C4_Refactor/S20_PyTest_Fixture/S20_response.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/C4_Translate/S20_PyTest_Fixture/S20_tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/C4_Refactor/S20_PyTest_Fixture/S20_tests.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/C4_Translate/S21_Common_Code_Take_1/S21_prompt.md" beforeDir="false" afterPath="$PROJECT_DIR$/C4_Refactor/S21_Common_Code_Take_1/S21_prompt.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/C4_Translate/S21_Common_Code_Take_1/S21_response.md" beforeDir="false" afterPath="$PROJECT_DIR$/C4_Refactor/S21_Common_Code_Take_1/S21_response.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/C4_Translate/S21_Common_Code_Take_1/S21_tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/C4_Refactor/S21_Common_Code_Take_1/S21_tests.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/C4_Translate/S22_Common_Code_Take_2/S22_prompt.md" beforeDir="false" afterPath="$PROJECT_DIR$/C4_Refactor/S22_Common_Code_Take_2/S22_prompt.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/C4_Translate/S22_Common_Code_Take_2/S22_response.md" beforeDir="false" afterPath="$PROJECT_DIR$/C4_Refactor/S22_Common_Code_Take_2/S22_response.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/C4_Translate/S22_Common_Code_Take_2/S22_tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/C4_Refactor/S22_Common_Code_Take_2/S22_tests.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/C4_Translate/S23_POM/S23_prompt.md" beforeDir="false" afterPath="$PROJECT_DIR$/C4_Refactor/S23_POM/S23_prompt.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/C4_Translate/S23_POM/S23_tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/C4_Refactor/S23_POM/S23_tests.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/C4_Translate/S23_POM/S24_response.md" beforeDir="false" afterPath="$PROJECT_DIR$/C4_Refactor/S23_POM/S24_response.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/C4_Translate/S23_POM/login_page.py" beforeDir="false" afterPath="$PROJECT_DIR$/C4_Refactor/S23_POM/login_page.py" afterDir="false" />
+    <list default="true" id="027e3aba-1a76-4164-ab1c-dc78a353aab9" name="Changes" comment="Translate to selenium cases">
+      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,6 +45,8 @@
     "Python tests.Python tests for S20_tests.test_successful_login.executor": "Run",
     "Python tests.Python tests for S24_tests.test_successful_login_selenium.executor": "Run",
     "Python tests.Python tests for S25_tests.test_successful_login_selenium.executor": "Run",
+    "Python tests.Python tests for S26_tests.test_invalid_login_no_password_selenium.executor": "Run",
+    "Python tests.Python tests for S26_tests.test_successful_login_selenium.executor": "Run",
     "Python tests.Python tests for test.test_has_title.executor": "Run",
     "Python tests.Python tests for test.test_successful_login.executor": "Run",
     "Python tests.Python tests in S20_tests.py.executor": "Run",
@@ -88,11 +66,12 @@
     "Python.S9_script.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/GitHub/Webinars/web-testing-with-ai/C5_Translate/S25_To_Selenium_Take_2"
+    "last_opened_file_path": "C:/GitHub/Webinars/web-testing-with-ai/C5_Translate/S26_To_Selenium_Take_3"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\GitHub\Webinars\web-testing-with-ai\C5_Translate\S26_To_Selenium_Take_3" />
       <recent name="C:\GitHub\Webinars\web-testing-with-ai\C5_Translate\S25_To_Selenium_Take_2" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -245,7 +224,15 @@
       <option name="project" value="LOCAL" />
       <updated>1749111591092</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Translate to selenium cases">
+      <option name="closed" value="true" />
+      <created>1749113526596</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1749113526596</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -254,6 +241,7 @@
     <MESSAGE value="added missing responses" />
     <MESSAGE value="Added Generate cases" />
     <MESSAGE value="Translate cases" />
-    <option name="LAST_COMMIT_MESSAGE" value="Translate cases" />
+    <MESSAGE value="Translate to selenium cases" />
+    <option name="LAST_COMMIT_MESSAGE" value="Translate to selenium cases" />
   </component>
 </project>
