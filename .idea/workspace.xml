@@ -4,30 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="027e3aba-1a76-4164-ab1c-dc78a353aab9" name="Changes" comment="Planning">
-      <change afterPath="$PROJECT_DIR$/C2_Setup/S10_Take_4/S10_prompt.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C2_Setup/S10_Take_4/S10_script.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C2_Setup/S11_Take_5/S11_prompt.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C2_Setup/S11_Take_5/S11_response.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C2_Setup/S11_Take_5/S11_script.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C2_Setup/S12_Take_6/S12_prompt.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C2_Setup/S12_Take_6/S12_response.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C2_Setup/S12_Take_6/S12_script.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C2_Setup/S13_Take_7/S13_prompt.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C2_Setup/S13_Take_7/S13_response.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C2_Setup/S13_Take_7/S13_script.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C2_Setup/S14_Final_Try/S14_prompt.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C2_Setup/S7_Get_To_Point/S7_prompt.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C2_Setup/S7_Get_To_Point/S7_script.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C2_Setup/S8_Take_2/S8_prompt.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C2_Setup/S8_Take_2/S8_script.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C2_Setup/S9_Take_3/S9_prompt.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C2_Setup/S9_Take_3/S9_response.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C2_Setup/S9_Take_3/S9_script.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/todo.md" beforeDir="false" afterPath="$PROJECT_DIR$/todo.md" afterDir="false" />
-    </list>
+    <list default="true" id="027e3aba-1a76-4164-ab1c-dc78a353aab9" name="Changes" comment="Get to point" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -43,9 +20,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 8
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
   <component name="ProjectId" id="2y2cR5kYAegpRZmdLLMwIXnryPz" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -54,20 +31,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python tests.Python tests for test.test_has_title.executor": "Run",
-    "Python.S10_script.executor": "Run",
-    "Python.S11_script.executor": "Run",
-    "Python.S12_script.executor": "Run",
-    "Python.S13_script.executor": "Run",
-    "Python.S7_script.executor": "Run",
-    "Python.S8_script.executor": "Run",
-    "Python.S9_script.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python tests.Python tests for test.test_has_title.executor&quot;: &quot;Run&quot;,
+    &quot;Python.S10_script.executor&quot;: &quot;Run&quot;,
+    &quot;Python.S11_script.executor&quot;: &quot;Run&quot;,
+    &quot;Python.S12_script.executor&quot;: &quot;Run&quot;,
+    &quot;Python.S13_script.executor&quot;: &quot;Run&quot;,
+    &quot;Python.S14_script.executor&quot;: &quot;Run&quot;,
+    &quot;Python.S7_script.executor&quot;: &quot;Run&quot;,
+    &quot;Python.S8_script.executor&quot;: &quot;Run&quot;,
+    &quot;Python.S9_script.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\GitHub\Webinars\web-testing-with-ai\C2_Setup\S7_Get_To_Point" />
@@ -218,11 +196,20 @@
       <option name="project" value="LOCAL" />
       <updated>1749040695630</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Get to point">
+      <option name="closed" value="true" />
+      <created>1749044178337</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1749044178337</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Planning" />
-    <option name="LAST_COMMIT_MESSAGE" value="Planning" />
+    <MESSAGE value="Get to point" />
+    <option name="LAST_COMMIT_MESSAGE" value="Get to point" />
   </component>
 </project>
