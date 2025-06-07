@@ -4,8 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="027e3aba-1a76-4164-ab1c-dc78a353aab9" name="Changes" comment="Translate to selenium cases">
-      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+    <list default="true" id="027e3aba-1a76-4164-ab1c-dc78a353aab9" name="Changes" comment="Requirements file">
+      <change afterPath="$PROJECT_DIR$/C1_Planning/a1_planning.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C2_Get_To_Point/a2_rabbit_hole.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C3_Generate/a3_generation.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C4_Refactor/a4_refactoring.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,42 +37,42 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python tests.Python tests for S15_tests.test_invalid_login_wrong_user.executor": "Run",
-    "Python tests.Python tests for S17_tests.test_invalid_login_wrong_user.executor": "Run",
-    "Python tests.Python tests for S17_tests.test_successful_login.executor": "Run",
-    "Python tests.Python tests for S18_tests.test_invalid_login_no_password.executor": "Run",
-    "Python tests.Python tests for S18_tests.test_successful_login.executor": "Run",
-    "Python tests.Python tests for S19_tests.test_invalid_login_no_password.executor": "Run",
-    "Python tests.Python tests for S19_tests.test_successful_login.executor": "Run",
-    "Python tests.Python tests for S20_tests.test_successful_login.executor": "Run",
-    "Python tests.Python tests for S24_tests.test_successful_login_selenium.executor": "Run",
-    "Python tests.Python tests for S25_tests.test_successful_login_selenium.executor": "Run",
-    "Python tests.Python tests for S26_tests.test_invalid_login_no_password_selenium.executor": "Run",
-    "Python tests.Python tests for S26_tests.test_successful_login_selenium.executor": "Run",
-    "Python tests.Python tests for test.test_has_title.executor": "Run",
-    "Python tests.Python tests for test.test_successful_login.executor": "Run",
-    "Python tests.Python tests in S20_tests.py.executor": "Run",
-    "Python tests.Python tests in S21_tests.py.executor": "Run",
-    "Python tests.Python tests in S22_tests.py.executor": "Run",
-    "Python tests.Python tests in S23_tests.py.executor": "Run",
-    "Python tests.Python tests in S24_tests.py.executor": "Run",
-    "Python tests.Python tests in S25_tests.py.executor": "Run",
-    "Python tests.pytest for S25_tests.test_invalid_login_no_password_selenium.executor": "Run",
-    "Python.S10_script.executor": "Run",
-    "Python.S11_script.executor": "Run",
-    "Python.S12_script.executor": "Run",
-    "Python.S13_script.executor": "Run",
-    "Python.S14_script.executor": "Run",
-    "Python.S7_script.executor": "Run",
-    "Python.S8_script.executor": "Run",
-    "Python.S9_script.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/GitHub/Webinars/web-testing-with-ai/C5_Translate/S26_To_Selenium_Take_3"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python tests.Python tests for S15_tests.test_invalid_login_wrong_user.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for S17_tests.test_invalid_login_wrong_user.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for S17_tests.test_successful_login.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for S18_tests.test_invalid_login_no_password.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for S18_tests.test_successful_login.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for S19_tests.test_invalid_login_no_password.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for S19_tests.test_successful_login.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for S20_tests.test_successful_login.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for S24_tests.test_successful_login_selenium.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for S25_tests.test_successful_login_selenium.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for S26_tests.test_invalid_login_no_password_selenium.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for S26_tests.test_successful_login_selenium.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test.test_has_title.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test.test_successful_login.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in S20_tests.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in S21_tests.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in S22_tests.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in S23_tests.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in S24_tests.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in S25_tests.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for S25_tests.test_invalid_login_no_password_selenium.executor&quot;: &quot;Run&quot;,
+    &quot;Python.S10_script.executor&quot;: &quot;Run&quot;,
+    &quot;Python.S11_script.executor&quot;: &quot;Run&quot;,
+    &quot;Python.S12_script.executor&quot;: &quot;Run&quot;,
+    &quot;Python.S13_script.executor&quot;: &quot;Run&quot;,
+    &quot;Python.S14_script.executor&quot;: &quot;Run&quot;,
+    &quot;Python.S7_script.executor&quot;: &quot;Run&quot;,
+    &quot;Python.S8_script.executor&quot;: &quot;Run&quot;,
+    &quot;Python.S9_script.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/GitHub/Webinars/web-testing-with-ai/C5_Translate/S26_To_Selenium_Take_3&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\GitHub\Webinars\web-testing-with-ai\C5_Translate\S26_To_Selenium_Take_3" />
@@ -232,7 +236,15 @@
       <option name="project" value="LOCAL" />
       <updated>1749113526596</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Requirements file">
+      <option name="closed" value="true" />
+      <created>1749113814894</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1749113814894</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -242,6 +254,7 @@
     <MESSAGE value="Added Generate cases" />
     <MESSAGE value="Translate cases" />
     <MESSAGE value="Translate to selenium cases" />
-    <option name="LAST_COMMIT_MESSAGE" value="Translate to selenium cases" />
+    <MESSAGE value="Requirements file" />
+    <option name="LAST_COMMIT_MESSAGE" value="Requirements file" />
   </component>
 </project>
