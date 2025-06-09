@@ -1,3 +1,7 @@
+Okay, here are two tests for the login screen using Playwright's synchronous API, locating elements by roles, and without extra comments or explanations in the test body.
+
+These tests assume the accessible names "Username" and "Password" for the react-select comboboxes, and "Sign In" for the button. The error message text "Invalid Username or Password" is also assumed for the negative test case.
+
 from playwright.sync_api import Playwright, sync_playwright, expect
 
 def test_successful_login(playwright: Playwright) -> None:

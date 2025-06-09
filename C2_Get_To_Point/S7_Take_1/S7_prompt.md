@@ -1,4 +1,4 @@
-I want to do some exploratory testing on the product paga.
+I want to do some exploratory testing on the product page.
 Create a Playwright script in Python.
 The script navigates to the homepage, and logs in successfully.
 It then selects any 2 iPhone models and the Galaxy S9 and Note 20 models.
