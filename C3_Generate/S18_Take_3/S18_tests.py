@@ -1,5 +1,6 @@
 from playwright.sync_api import Playwright, sync_playwright, expect
 
+
 def test_successful_login(playwright: Playwright) -> None:
     browser = playwright.chromium.launch(headless=False)
     context = browser.new_context()
@@ -20,7 +21,6 @@ def test_successful_login(playwright: Playwright) -> None:
 
     context.close()
     browser.close()
-
 
 
 def test_invalid_login_no_password(playwright: Playwright) -> None:

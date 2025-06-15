@@ -1,5 +1,6 @@
 from playwright.sync_api import Playwright, sync_playwright, expect
 
+
 def test_successful_login(playwright: Playwright) -> None:
     browser = playwright.chromium.launch(headless=False)
     page = browser.new_page()
@@ -28,6 +29,7 @@ def test_successful_login(playwright: Playwright) -> None:
     expect(page.locator(".shelf-container")).to_be_visible(timeout=25000)
 
     browser.close()
+
 
 def test_invalid_login_wrong_user(playwright: Playwright) -> None:
     browser = playwright.chromium.launch(headless=False)
@@ -60,6 +62,7 @@ def test_invalid_login_wrong_user(playwright: Playwright) -> None:
     expect(page).to_have_url("https://bstackdemo.com/signin", timeout=5000)
 
     browser.close()
+
 
 # To run these tests:
 # 1. Save this code as a Python file (e.g., `login_tests.py`).
